@@ -66,8 +66,7 @@ GUI Framework: Java Swing
 Data Management: In-memory structures (extensible for database use).
 Team Contributions
 This project was developed collaboratively by a team of software engineering students:
-
-@RoyKodman (Me)
-Daniel Negbi
+Daniel Negbi @Negbi (Myself)
+@RoyKodman
 Shimon Ben-Ami
 Amitay Ziv

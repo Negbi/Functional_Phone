@@ -64,7 +64,7 @@ Technical Details
 Programming Language: Java
 GUI Framework: Java Swing
 Data Management: In-memory structures (extensible for database use).
-Team Contributions
+#Team Contributions
 This project was developed collaboratively by a team of software engineering students:
 Daniel Negbi @Negbi (Myself)
 @RoyKodman

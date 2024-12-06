@@ -5,7 +5,7 @@
 **Final Grade:** *98/100*
 
 ## Table of Contents
-  - [Features](#features)
+  - [Features:](#features)
   - [PhoneBook](#phonebook)
   - [SMS](#sms)
   - [Calendar](#calendar)
@@ -13,11 +13,11 @@
   - [Phone Calls](#phone-calls)
   - [Wallet](#wallet)
   - [Casino](#casino)
-  - [User Interface](#user-interface)
+  - [User Interface:](#user-interface)
   - [Setup and Usage](#setup-and-usage)
   - [Prerequisites](#prerequisites)
   - [Steps to Run](#steps-to-run)
-  - [Technical Details](#technical-details)
+  - [Technical Details:](#technical-details)
   - [Team Contributions](#team-contributions)
 
 ## Features
